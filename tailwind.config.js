@@ -1,6 +1,7 @@
 module.exports = {
   content: ["./**/*.html"],
   theme: {
+ 
     container: {
       center: true,
     },

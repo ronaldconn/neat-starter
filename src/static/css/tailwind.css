@@ -9,7 +9,12 @@ h1 {
 }
 
 h3 {
-  @apply text-2xl font-bold mb-3;
+  @apply text-2xl font-bold mb-3 text-center lg:text-7xl;
+}
+
+p {
+  @apply text-base text-center;
+  margin: 1.5em 0;
 }
 
 /* Syntax Highlighting*/
